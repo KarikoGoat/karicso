@@ -28,7 +28,7 @@ const MyTextArea = ({ label, ...props }) => {
 
 const FormComp = (props) => {
 
-  emailjs.init("G7UMGkHPcHIwayFoJ");
+  emailjs.init("dgRa1q9fTtk6kdqJt");
   const service_id = "service_r8om8id";
   const template_id = "template_qkvn6gc";
 
